@@ -41,6 +41,5 @@ The outcome is a detailed Product Requirement Document (PRD) proposing solutions
 ---
 
 ##  Author
-**Arpita Chaurasia**  
-Product Strategy & Research  
+**Arpita Chaurasia**    
 IIT Kanpur  
